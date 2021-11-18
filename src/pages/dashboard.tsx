@@ -53,7 +53,8 @@ const options: ApexOptions = {
       opacityFrom: 0.7,
       opacityTo: 0.3
     }
-  }
+  },
+  
 };
 
 const series = [
